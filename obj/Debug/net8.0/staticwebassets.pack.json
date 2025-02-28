@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlogWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlogWebApp.props",
+      "PackagePath": "build\\BlogWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogWebApp.props",
+      "PackagePath": "buildMultiTargeting\\BlogWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlogWebApp.props",
+      "PackagePath": "buildTransitive\\BlogWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
