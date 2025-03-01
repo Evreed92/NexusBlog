@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\layout\\post.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:components\\layout\\post.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\layout\\post.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:components\\layout\\post.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\layout\\post.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:components\\layout\\post.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\blogwebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -35,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\layout\\post.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:components\\layout\\post.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|c:\\users\\evree\\documents\\personalprojects\\blog\\blogwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9970714-1B3F-4F6A-94DD-1D019A60319F}|BlogWebApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 33,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,19 +86,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-01T20:06:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BlogWebApp",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\BlogWebApp.csproj",
               "RelativeDocumentMoniker": "BlogWebApp.csproj",
               "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\BlogWebApp.csproj",
               "RelativeToolTip": "BlogWebApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-01T08:27:34.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T08:27:34.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\app.css",
@@ -98,12 +118,11 @@
               "RelativeToolTip": "wwwroot\\app.css",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-01T08:27:08.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T08:27:08.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -111,12 +130,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T08:27:01.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T08:27:01.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "Components\\Routes.razor",
@@ -124,12 +142,11 @@
               "RelativeToolTip": "Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-01T08:21:37.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T08:21:37.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -137,12 +154,11 @@
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-01T08:21:28.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T08:21:28.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
@@ -150,12 +166,11 @@
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-01T08:21:03.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T08:21:03.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -163,38 +178,37 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:20:56.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T08:20:56.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Post.razor.css",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\Post.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\Post.razor.css",
               "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\Post.razor.css",
               "RelativeToolTip": "Components\\Layout\\Post.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-01T08:14:51.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Post.razor",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\Post.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\Post.razor",
               "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\Post.razor",
               "RelativeToolTip": "Components\\Layout\\Post.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-01T08:13:31.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Blog.razor",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Pages\\Blog.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Blog.razor",
@@ -202,12 +216,11 @@
               "RelativeToolTip": "Components\\Pages\\Blog.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-01T07:55:42.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T07:55:42.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -220,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -229,6 +242,25 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-01T07:55:21.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 33,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\Blog\\BlogWebApp\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-01T18:53:10.023Z",
               "EditorCaption": ""
             }
           ]
