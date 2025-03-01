@@ -206,3 +206,8 @@ main[b-lti81owr4v] {
         overflow-y: auto;
     }
 }
+/* _content/BlogWebApp/Components/Layout/Post.razor.rz.scp.css */
+body[b-sqna96kprj] {
+    background-color: black;
+    color: white;
+}

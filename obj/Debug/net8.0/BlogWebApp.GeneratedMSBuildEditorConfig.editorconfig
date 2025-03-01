@@ -57,3 +57,7 @@ build_metadata.AdditionalFiles.CssScope = b-lti81owr4v
 [C:/Users/evree/Documents/PersonalProjects/Blog/BlogWebApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-6le0o7tvao
+
+[C:/Users/evree/Documents/PersonalProjects/Blog/BlogWebApp/Components/Layout/Post.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUG9zdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-sqna96kprj

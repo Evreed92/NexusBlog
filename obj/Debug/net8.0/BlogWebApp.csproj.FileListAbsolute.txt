@@ -27,3 +27,5 @@ C:\Users\evree\Documents\PersonalProjects\Blog\BlogWebApp\obj\Debug\net8.0\refin
 C:\Users\evree\Documents\PersonalProjects\Blog\BlogWebApp\obj\Debug\net8.0\BlogWebApp.pdb
 C:\Users\evree\Documents\PersonalProjects\Blog\BlogWebApp\obj\Debug\net8.0\BlogWebApp.genruntimeconfig.cache
 C:\Users\evree\Documents\PersonalProjects\Blog\BlogWebApp\obj\Debug\net8.0\ref\BlogWebApp.dll
+C:\Users\evree\Documents\PersonalProjects\Blog\BlogWebApp\obj\Debug\net8.0\BlogWebApp.sourcelink.json
+C:\Users\evree\Documents\PersonalProjects\Blog\BlogWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\Post.razor.rz.scp.css
